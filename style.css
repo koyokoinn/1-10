@@ -69,7 +69,7 @@ footer {
     display: block;
   }
   .step-box {
-    width: 100%;
+    width: 90%;
     margin-top: 50px;
   }
   .step-box:nth-child(2) {
